@@ -24,7 +24,7 @@ contact via whatsapp: <a href="https://wa.me/6283179481874/" target="_blank">cli
 
 # SCREENSHOT
 
-![ss](https://github.com/hekelpro/locked/blob/main/Screenshot_20210406_195221-picsay.jpg)
+![ss](https://github.com/hekelpro/locked/blob/main/bukti.jpg)
 
 # THANKS TO
 
